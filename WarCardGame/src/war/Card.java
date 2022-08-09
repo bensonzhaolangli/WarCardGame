@@ -12,6 +12,7 @@ public class Card implements Comparable<Card> {
     /**
      * Field Variables
      */
+    //a
     private Rank rank;
     private Suit suit;
 
